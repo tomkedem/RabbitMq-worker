@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gjXG9iFU6L8cGFeaD4UX0OYZwKlXDKbTD+kjP15v0xCEALwaZIVMj0NPMBP3j3ISkOm4rh6jAqK1LnqhqiwviQ==",
+  "dgSpecHash": "6vp6qT4wjPizIhOKvpIioZUYVmqu5ILmjq9JlM9U696VTzfYiXp84NYNc7LVLbZfW2IZkRIW5lYWunm7+Enblw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Tom\\Desktop\\2023 Studies\\RabbitMQLesson\\LastVer\\RabbitMq-worker\\ServiceWorkerRabbitMqTest\\ServiceWorkerRabbitMqTest.csproj",
+  "projectFilePath": "C:\\Users\\Tom\\Desktop\\2023 Studies\\RabbitMQLesson\\LastVer\\testbefore\\RabbitMq-worker\\ServiceWorkerRabbitMqTest\\ServiceWorkerRabbitMqTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tom\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Tom\\.nuget\\packages\\mediatr\\7.0.0\\mediatr.7.0.0.nupkg.sha512",

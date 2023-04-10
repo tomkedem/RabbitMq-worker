@@ -1660,11 +1660,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tom\\Desktop\\2023 Studies\\RabbitMQLesson\\LastVer\\RabbitMq-worker\\ServiceWorkerRabbitMqTest\\ServiceWorkerRabbitMqTest.csproj",
+      "projectUniqueName": "C:\\Users\\Tom\\Desktop\\2023 Studies\\RabbitMQLesson\\LastVer\\testbefore\\RabbitMq-worker\\ServiceWorkerRabbitMqTest\\ServiceWorkerRabbitMqTest.csproj",
       "projectName": "ServiceWorkerRabbitMqTest",
-      "projectPath": "C:\\Users\\Tom\\Desktop\\2023 Studies\\RabbitMQLesson\\LastVer\\RabbitMq-worker\\ServiceWorkerRabbitMqTest\\ServiceWorkerRabbitMqTest.csproj",
+      "projectPath": "C:\\Users\\Tom\\Desktop\\2023 Studies\\RabbitMQLesson\\LastVer\\testbefore\\RabbitMq-worker\\ServiceWorkerRabbitMqTest\\ServiceWorkerRabbitMqTest.csproj",
       "packagesPath": "C:\\Users\\Tom\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tom\\Desktop\\2023 Studies\\RabbitMQLesson\\LastVer\\RabbitMq-worker\\ServiceWorkerRabbitMqTest\\obj\\",
+      "outputPath": "C:\\Users\\Tom\\Desktop\\2023 Studies\\RabbitMQLesson\\LastVer\\testbefore\\RabbitMq-worker\\ServiceWorkerRabbitMqTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Tom\\AppData\\Roaming\\NuGet\\NuGet.Config",
