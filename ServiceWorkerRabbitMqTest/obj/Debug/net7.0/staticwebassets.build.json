@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "dJ/K5tn2BINKidSXSQ9t2A5Uy7XG/xce0TokfMb5kBI=",
+  "Source": "ServiceWorkerRabbitMqTest",
+  "BasePath": "_content/ServiceWorkerRabbitMqTest",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
